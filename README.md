@@ -1,2 +1,2 @@
 # website-summarizer-ollama
-using ollama -website-summarizer
+AI-powered website summarizer using Ollama
