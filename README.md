@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌐 Website Summarizer using Ollama
 
 A Python project that fetches content from any website and generates a concise summary using Ollama AI models.
@@ -302,3 +303,7 @@ GitHub: @Dikshya0515
 - Ollama team for the amazing local AI models
 - BeautifulSoup for easy web scraping
 - Python community for great libraries
+=======
+# website-summarizer-ollama
+AI-powered website summarizer using Ollama
+>>>>>>> b6f1ea575547d32b9e82c94583412c4c9a5ddddd
